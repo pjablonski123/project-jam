@@ -401,7 +401,7 @@ https://github.com/pjablonski123/project-jam/blob/master/notejam.cf.template.yam
 1. Deployment of the old architecture in AWS using EC2 instances. 
 2. A database migration from SQLite to an RDS instance.
 3. Code patching and updates of the LAP stack, e.g. bump django from version 1.6.5 to 1.11.29.
-4. Deploy network and other infrastructure components.
+4. Deploy the network and other infrastructure components.
 5. Performance and scalability verification, modify the architecture.
 6. Create an AMI image based on an instance testing deployment.
 7. Build CloudFormation templates for the whole infrastructure.
