@@ -404,7 +404,7 @@ Run the service.
 7. Build CloudFormation templates for the whole infrastructure.
 8. Deploy a full testing environment from the code.
 9. Verify settings, stage period.
-10. Prepare a docummentation.
+10. Prepare a documentation.
 
 ## 5. A workshop for the customer.
 
