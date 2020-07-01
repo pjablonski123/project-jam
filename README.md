@@ -24,7 +24,7 @@ A proposed new topology
 Demo available at http://node4it.com
 
 A screenshot from the website:
-![alt text](https://github.com/pjablonski123/project-jam/blob/master/test-notejam.jpg?raw=true)
+![alt text](https://github.com/pjablonski123/project-jam/blob/master/notejam-test1.jpg?raw=true)
 
 
 Install Python Package Manager. 
