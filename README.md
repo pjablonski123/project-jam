@@ -7,8 +7,8 @@ PoC and solution validation steps.
 1. Gathering and analyzing the application and customer's requirements.
 2. Planning a new architecture.
 3. Preparing a demo.
-4. Preparations for a deployment.
-5. A workshop for the customer.
+4. Infrastructure as code.
+5. Preparations for a deployment.
 
 ## 1. Gathering and analyzing the application and customer's requirements.
 
@@ -391,7 +391,12 @@ Run the service.
 /var/www/html/django/notejam/manage.py runserver 172.31.30.190:80
 ```
 
-## 4. Preparations for a deployment.
+## 4. Infrastructure as Code.
+
+Notejam basic Cloudformation template
+![alt text](https://github.com/pjablonski123/project-jam/blob/master/notejam.cf.template.yaml?raw=true)
+
+## 5. Preparations for a deployment.
 
 1. Deployment of the old architecture in AWS using EC2 instances. 
 2. A database migration from SQLite to an RDS instance.
@@ -403,7 +408,3 @@ Run the service.
 8. Deploy a full testing environment from the code.
 9. Verify settings, stage period.
 10. Prepare a documentation.
-
-## 5. A workshop for the customer.
-
-Date of a workshop - TBD.
