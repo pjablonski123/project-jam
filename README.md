@@ -31,7 +31,7 @@ Install Python package.
 yum install python-pip
 
 ```
-[ec2-user@ip-172-31-24-206 django]$ sudo yum install python-pip
+[ec2-user@ip-172-31-20-161 django]$ sudo yum install python-pip
 Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
 192 packages excluded due to repository priority protections
 Resolving Dependencies
