@@ -394,7 +394,7 @@ Run the service.
 ## 4. Infrastructure as Code.
 
 Notejam basic Cloudformation template
-![alt text](https://github.com/pjablonski123/project-jam/blob/master/notejam.cf.template.yaml?raw=true)
+https://github.com/pjablonski123/project-jam/blob/master/notejam.cf.template.yaml
 
 ## 5. Preparations for a deployment.
 
