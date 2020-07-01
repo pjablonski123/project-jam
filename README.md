@@ -28,8 +28,6 @@ A screenshot from the website:
 
 
 Install Python Package Manager. 
-yum install python-pip
-
 ```
 [ec2-user@ip-172-31-30-190 ~]$ yum install python-pip
 Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
