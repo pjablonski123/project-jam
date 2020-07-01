@@ -2,7 +2,7 @@
 
 This is a Notejam App project running in AWS.
 
-PoC and a solution validation steps.
+PoC and solution validation steps.
 
 1. Gathering and analyzing the application and customer's requirements.
 2. Planning a new architecture.
