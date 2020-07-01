@@ -16,10 +16,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': 'notejam.db',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',
-        'PORT': '',
+        'USER': 'user',
+        'PASSWORD': 'user',
+        'HOST': '172.31.30.190',
+        'PORT': '80',
     }
 }
 
