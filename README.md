@@ -408,4 +408,4 @@ Run the service.
 
 ## 5. A workshop for the customer.
 
-Date of w workshop - TBD.
+Date of a workshop - TBD.
