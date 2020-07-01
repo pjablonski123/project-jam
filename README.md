@@ -27,11 +27,11 @@ A screenshot from the website:
 ![alt text](https://github.com/pjablonski123/project-jam/blob/master/test-notejam.jpg?raw=true)
 
 
-Install Python package. 
+Install Python Package Manager. 
 yum install python-pip
 
 ```
-[ec2-user@ip-172-31-20-161 django]$ sudo yum install python-pip
+[ec2-user@ip-172-31-20-161 django]$ yum install python-pip
 Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
 192 packages excluded due to repository priority protections
 Resolving Dependencies
@@ -72,7 +72,7 @@ Complete!
 pip install -r requirements.txt
 
 ```
-[ec2-user@ip-172-31-20-161 django]$ sudo pip install -r requirements.txt
+[ec2-user@ip-172-31-20-161 django]$ pip install -r requirements.txt
 WARNING: Running pip install with root privileges is generally not a good idea. Try `pip install --user` instead.
 Collecting Django==1.6.5 (from -r requirements.txt (line 1))
   Downloading https://files.pythonhosted.org/packages/43/6c/7fffbe73fe5703125aa1c9e3279ad3a5e542128ee55a4aa83669db1985cd/Django-1.6.5-py2.py3-none-any.whl (6.7MB)
@@ -87,7 +87,7 @@ Successfully installed Django-1.6.5 South-1.0
 
 Run the service.
 ```
-sudo ./manage.py runserver 172.31.20.161:80&
+./manage.py runserver 172.31.20.161:80&
 ```
 
 ## 4. Preparations for a deployment.
